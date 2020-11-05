@@ -1,4 +1,4 @@
-Hello! My name is **Tyler Schrock**. I'm an open source enthusiast and full-time problem solver. I build everything from websites and mobile apps to video game mods and developer tools.
+Hello! My name is **Tyler Schrock**. I'm an open source enthusiast and build all sorts of things - websites, mobile apps, video game mods, developer tools, and more.
 
 If you want me to build something for you or have a job I might be interested in, please let get in touch!
 
