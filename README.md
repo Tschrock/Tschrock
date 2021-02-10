@@ -1,8 +1,14 @@
-Hello! My name is **Tyler Schrock**. I'm an open source enthusiast and build all sorts of things - websites, mobile apps, video game mods, developer tools, and more.
+Hello! My name is **Tyler Schrock**. I'm an open source enthusiast and build all sorts of things - websites, mobile apps, chat bots, and more.
 
 If you want me to build something for you or have a job I might be interested in, please let get in touch!
 
-- I'm currently helping some friends [re-create Among Us in 3D using Garry's Mod](https://github.com/NotMyWing/GarrysModAmongUs). 
+I do
+- Video Game Mods (Minecraft, Beat Saber, etc)
+- Chat Bots (Discord, etc)
+- Native Android/iOS Apps
+- Cross-Platform Desktop Applications
+- ASP.NET/Node.js Websites
+- API Reverse Engineering & Documentation
 
 ## GitHub Stats
 
