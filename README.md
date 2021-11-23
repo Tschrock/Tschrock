@@ -22,4 +22,6 @@ I do
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tschrock)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tschrock123/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CyberPon3/)
+[![Telegram](https://img.shields.io/badge/-Telegram-32afed?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/cyberpon3/)
 <a href="https://ko-fi.com/tschrock"><img align="right" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-F16061?style=for-the-badge&logo=Ko-fi&logoColor=white" /></a>
